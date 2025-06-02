@@ -223,7 +223,7 @@ Ex.:
 ```
 cd "C:\Projetos\Automação\testes-automatizados-e2e-front-serve-rest_cypress"
 ```
-- Informar o comando abaixo para executar todas as funcionalidades e/ou cenários do projeto no navegador chrome em modo headless (2º plano) em um ambiente de produção (comando semelhante ao que é utilizado no "Passo 3" do job "cypress-chrome" da "Pipeline Testes Automatizados E2E (Ponta a Ponta) Front ServeRest Cypress" em ".github > workflows > [workflow-testes-automatizados-e2e-front-serve-rest-cypress.yml](https://github.com/helenabatiista/testes-automatizados-e2e-front-serve-rest_cypress/blob/main/.github/workflows/workflow-testes-automatizados-e2e-front-serve-rest-cypress.yml)" no GitHub Actions) e Gerar os resultados dos testes no computador (cypress > screenshots; cypress > videos):
+- Informar o comando abaixo para executar todas as funcionalidades e/ou cenários do projeto no navegador chrome em modo headless (2º plano) em um ambiente de produção (comando semelhante ao que é utilizado no "Passo 3" do job "cypress-chrome" da "Pipeline Testes Automatizados E2E (Ponta a Ponta) Front ServeRest Cypress" em ".github > workflows > [workflow-testes-automatizados-e2e-front-serve-rest-cypress.yml](https://github.com/helenabatiista/testes-automatizados-e2e-front-serve-rest_cypress/blob/https/github.com/helenamatoss/helenabatiista/testes-automatizados-e2e-front-serve-rest_cypress-main/cypress/e2e/workflow-testes-automatizados-e2e-front-serve-rest-cypress.yml)" no GitHub Actions) e Gerar os resultados dos testes no computador (cypress > screenshots; cypress > videos):
 ```
 npm run test
 ```
