@@ -178,7 +178,7 @@ code .
 # :hammer_and_wrench: Criar arquivos "usuario.json", etc, informando os dados com base nos arquivos "usuario.example.json", etc
 - No VS Code aberto anteriormente, acessar "cypress > fixtures"
 - Criar o arquivo "usuario.json"
-  - Informar os dados com base no arquivo ["usuario.example.json"](https://github.com/helenabatiista/testes-automatizados-e2e-front-serve-rest_cypress/blob/main/cypress/fixtures/usuario.example.json)
+  - Informar os dados com base no arquivo ["usuario.example.json"](https://github.com/helenabatiista/testes-automatizados-e2e-front-serve-rest_cypress/blob/https/github.com/helenamatoss/helenabatiista/testes-automatizados-e2e-front-serve-rest_cypress-main/cypress/fixtures/usuario.example.json)
     - Salvar o arquivo "usuario.json" com os dados informados anteriormente
   
 ---
