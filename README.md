@@ -2,7 +2,7 @@
 # :test_tube: Projeto de Testes Funcionais Automatizados E2E (Ponta a Ponta) | Cypress v13.15.0 | Javascript | Commands | App Actions | GitHub Actions 
 
 # :information_source: Introdução
-Esse projeto "testes-automatizados-e2e-front-serve-rest_cypress" é executado em um ambiente de produção no ["front"]) e na ["API REST"] do ["ServeRest"] que simula uma loja virtual, nos navegadores Chrome e Firefox; nos Sistemas Operacionais Windows 10 e Linux Ubuntu 22.04, com o objetivo de praticar ainda mais testes automatizados e2e (ponta a ponta) em Cypress v13.15.0, Javascript, Commands, App Actions e GitHub Actions.
+Esse projeto é executado em um ambiente de produção no ["front"]) e na ["API REST"] do ["ServeRest"] que simula uma loja virtual, nos navegadores Chrome e Firefox; nos Sistemas Operacionais Windows 10 e Linux Ubuntu 22.04, com o objetivo de praticar ainda mais testes automatizados e2e (ponta a ponta) em Cypress v13.15.0, Javascript, Commands, App Actions e GitHub Actions.
 
 - Documentações de referência
   - Cypress:
